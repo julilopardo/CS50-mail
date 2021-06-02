@@ -1,0 +1,43 @@
+textarea {
+    min-height: 400px;
+}
+
+.read {
+    background-color: white;
+    border-style: solid;
+    border-color: lightgray;
+    border-width: 1px;
+    padding: 6px;
+    border-radius: 5px;
+
+    
+}
+
+.card {
+    background-color: lightgray;
+    border-style: solid;
+    border-color: lightgray;
+    border-width: 1px;
+    padding: 6px;
+    font-style: bold;
+}
+
+.mailcontent {
+    min-height: 200px;
+    border-style: solid;
+    border-color: lightgray;
+    border-width: 1px;
+    padding: 6px;
+    margin: 6px;
+    border-radius: 5px;
+
+}
+
+.container2 {
+    border-style: solid;
+    border-color: lightgray;
+    border-width: 1px;
+    padding: 6px;
+    border-radius: 5px;
+
+}
